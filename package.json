@@ -40,7 +40,16 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-trybe-frontend": "^1.3.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-func": "^0.1.18",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-redux": "^4.0.0",
+    "eslint-plugin-sonarjs": "^0.16.0",
     "prop-types": "^15.8.1",
     "stylelint": "^14.10.0",
     "stylelint-config-standard": "^27.0.0",
