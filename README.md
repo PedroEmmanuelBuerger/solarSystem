@@ -1,13 +1,31 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# SolarSystem
+O SolarSystem é um projeto desenvolvido para criar uma representação interativa do sistema solar. Ele permite aos usuários explorarem os planetas, aprenderem sobre suas características e visualizarem sua disposição no espaço.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Funcionalidades
+O projeto possui as seguintes funcionalidades:
+- Exploração planetária: os usuários podem selecionar e explorar cada planeta do sistema solar, visualizando informações detalhadas, como tamanho, composição, atmosfera, entre outros.
+- Educação e aprendizado: o projeto também tem o objetivo de fornecer informações educativas sobre os planetas, suas órbitas, luas e outras características, permitindo que os usuários aprendam enquanto exploram.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- JavaScript
+- React
+- HTML
+- CSS
+
+## Instalação
+Para visualizar e interagir com o SolarSystem localmente, siga os passos abaixo:
+
+1. Clone o repositório para sua máquina local:
+git clone https://github.com/PedroEmmanuelBuerger/project-solarSystem.git
+2. Navegue até a pasta do projeto:
+cd project-solarSystem
+3. rode o seguinte comando: NPM START
+
+## Principais Aprendizados
+Durante o desenvolvimento deste projeto, foram explorados conceitos de componetização em react, manipulação de elementos do DOM com JavaScript e estilização com CSS. Além disso, foi uma oportunidade para aprender sobre o sistema solar, suas características e órbitas.
+
+## Conclusão
+O SolarSystem oferece uma experiência interativa e educativa para explorar e aprender sobre o sistema solar. É uma maneira divertida de visualizar os planetas e suas características de forma virtual. Desfrute da exploração espacial e amplie seus conhecimentos sobre nosso sistema solar com o SolarSystem!
+
