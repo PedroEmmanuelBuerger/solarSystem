@@ -1,31 +1,27 @@
 # SolarSystem
-O SolarSystem é um projeto desenvolvido para criar uma representação interativa do sistema solar. Ele permite aos usuários explorarem os planetas, aprenderem sobre suas características e visualizarem sua disposição no espaço.
 
-## Funcionalidades
-O projeto possui as seguintes funcionalidades:
-- Exploração planetária: os usuários podem selecionar e explorar cada planeta do sistema solar, visualizando informações detalhadas, como tamanho, composição, atmosfera, entre outros.
-- Educação e aprendizado: o projeto também tem o objetivo de fornecer informações educativas sobre os planetas, suas órbitas, luas e outras características, permitindo que os usuários aprendam enquanto exploram.
+The SolarSystem is a project developed to create an interactive representation of the solar system. It allows users to explore the planets, learn about their characteristics, and visualize their arrangement in space.
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+## Features
 
-- JavaScript
-- React
-- HTML
-- CSS
+The project includes the following features:
 
-## Instalação
-Para visualizar e interagir com o SolarSystem localmente, siga os passos abaixo:
+- **Planetary Exploration:** Users can select and explore each planet in the solar system, viewing detailed information such as size, composition, atmosphere, and more.
+- **Education and Learning:** The project also aims to provide educational information about the planets, their orbits, moons, and other features, allowing users to learn while exploring.
 
-1. Clone o repositório para sua máquina local:
-git clone https://github.com/PedroEmmanuelBuerger/project-solarSystem.git
-2. Navegue até a pasta do projeto:
-cd project-solarSystem
-3. rode o seguinte comando: NPM START
+## Technologies Used
 
-## Principais Aprendizados
-Durante o desenvolvimento deste projeto, foram explorados conceitos de componetização em react, manipulação de elementos do DOM com JavaScript e estilização com CSS. Além disso, foi uma oportunidade para aprender sobre o sistema solar, suas características e órbitas.
+The project was developed using the following technologies:
 
-## Conclusão
-O SolarSystem oferece uma experiência interativa e educativa para explorar e aprender sobre o sistema solar. É uma maneira divertida de visualizar os planetas e suas características de forma virtual. Desfrute da exploração espacial e amplie seus conhecimentos sobre nosso sistema solar com o SolarSystem!
+- **JavaScript**
+- **React**
+- **HTML**
+- **CSS**
 
+## Key Learnings
+
+During the development of this project, I explored the concepts of componentization in React, DOM manipulation with JavaScript, and styling with CSS. Additionally, it was an opportunity to learn about the solar system, its characteristics, and orbits.
+
+## Conclusion
+
+SolarSystem offers an interactive and educational experience for exploring and learning about the solar system. It's a fun way to visualize the planets and their characteristics virtually. Enjoy space exploration and expand your knowledge of our solar system with SolarSystem!
